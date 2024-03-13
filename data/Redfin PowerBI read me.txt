@@ -1,0 +1,15 @@
+I am interested in Redfin for sale data for my area. Redfin only allows 350 home data to be downloaded at one time, so I had to use some filters to narrow it down. I applied the following filters: 
+1. Drew boundary on map to include only White House, Goodlettsville, Hendersonville, and Gallatin. (see screenshot)
+2. Only looked at properties classified as "House" 
+3. Only looked at Actively listed houses (no coming soon or under contract/pending properties)
+4. Excluded 55+ communities, short sales, and listings with an HOA fee
+
+This produced a list of 302 houses
+It may be interesting to compare these to the market analysis here: https://www.redfin.com/city/12545/TN/Millersville/housing-market 
+
+
+Comparing Rentals
+1. Same boudaries as above
+2. No filters because there are much less properties available for rent
+
+Yields 145 listings
